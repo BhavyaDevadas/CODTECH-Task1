@@ -1,8 +1,8 @@
--Name: BHAVYA D
--Company: CODTECH IT SOLUTIONS
--ID: CT04DS7822
--Domain: Web Developer
--Duration: 4 Weeks from SEPTEMBER 15th,2024 to OCTOBER 15th,2024
+Name: BHAVYA D
+Company: CODTECH IT SOLUTIONS
+ID: CT04DS7822
+Domain: Web Developer
+Duration: 4 Weeks from SEPTEMBER 15th,2024 to OCTOBER 15th,2024
 
 ## Overview of the Project
 
