@@ -8,6 +8,9 @@ Duration: 4 Weeks from SEPTEMBER 15th,2024 to OCTOBER 15th,2024
 
 ## Project: Cafe Website
 
+![Screenshot 2024-10-13 210102](https://github.com/user-attachments/assets/75af71b9-68a6-4662-88cb-cef5e515822d)
+
+
 ## Objectives
 - Create an attractive and user-friendly website for the cafe.
 - Showcase menu items, promotions, and events.
